@@ -14,7 +14,9 @@ Clone or copy this repository into the Codex skills directory as `app-store-spam
 Use $app-store-spam-guard to compare these three planned apps with my existing portfolio, recommend merge vs. split, and produce separate Apple and Google Play risk reviews.
 ```
 
-Policy sources were last researched on 2026-09-02. Re-check official policies before a consequential submission or appeal.
+The skill separates product risk from evidence readiness, checks real-user validation and provenance, and routes information requests before resubmission or appeal. These are internal safeguards, not approval guarantees or mandatory tester quotas.
+
+Apple guidelines and appeal guidance were last verified on 2026-10-06; other sources were last researched on 2026-09-02. Re-check official policies before a consequential submission or appeal.
 
 ## License
 

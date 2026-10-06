@@ -1,6 +1,6 @@
 # Apple App Store: spam and template-app review
 
-Last policy verification: 2026-09-02. Re-check the [App Review Guidelines](https://developer.apple.com/app-store/review/guidelines/) before consequential advice.
+Last policy verification: 2026-10-06 (4.2, 4.2.6, 4.3). Re-check the [App Review Guidelines](https://developer.apple.com/app-store/review/guidelines/) before consequential advice.
 
 ## Guideline 4.3(a): multiple versions and duplicate submissions
 
@@ -46,4 +46,4 @@ If answers rely mostly on branding, audience wording, geography, language, or ke
 
 ## Evidence for review notes
 
-Prepare a factual table covering the target user, job-to-be-done, unique launch features, proprietary or licensed content, differences from named sibling apps, reason for a separate app, demo credentials, review path, and content-provider authorization. Give reviewers reproducible evidence; avoid unsupported “first,” “only,” or “completely unique” claims.
+Prepare a factual table covering the target user, job-to-be-done, substantive launch capabilities, proprietary or licensed content, differences from named sibling apps, reason for a separate app, demo credentials where needed, review path, and content-provider authorization where applicable. Give reviewers reproducible evidence; avoid unsupported “first,” “only,” or “completely unique” claims. Apply [evidence-gates.md](evidence-gates.md) before a readiness verdict; use the rejection-response reference when Apple requests further evidence.

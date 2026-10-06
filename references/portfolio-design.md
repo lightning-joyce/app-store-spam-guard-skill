@@ -25,7 +25,7 @@ Do not calculate a fake uniqueness percentage. The matrix supports judgment; it 
 
 ### Red
 
-Same job, workflow, and feature set; variants differ mainly by brand, theme, locale, client, geography, or keywords; small content can be aggregated; template provenance is unclear; the rationale is store coverage; or a saturated category has only a peripheral improvement.
+Same job, workflow, and feature set; variants differ mainly by brand, theme, locale, client, geography, or keywords; small content can be aggregated; the rationale is store coverage; or a saturated category has only a peripheral improvement. Unknown template provenance is an evidence blocker, not by itself proof of duplication.
 
 ### Amber
 
@@ -35,7 +35,7 @@ A real audience or service distinction exists, but the launch experience remains
 
 Independent user problem or materially different workflow; substantial standalone value at launch; distinct service/data/device capability; clear user benefit from remaining separate; sustainable ownership and updates; and differences reviewers can reproduce.
 
-Green means lower observed risk, not guaranteed approval.
+Apply these product-risk descriptions alongside the separate evidence-readiness gates in [evidence-gates.md](evidence-gates.md). Green applies only to the named stage and inspected scope; planned functionality cannot support submission readiness. Green is not guaranteed approval.
 
 ## Architecture patterns
 

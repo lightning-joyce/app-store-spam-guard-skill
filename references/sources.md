@@ -1,11 +1,12 @@
 # Sources and evidence discipline
 
-Last researched: 2026-09-02. Policies change; re-open official sources before submission or appeal.
+Apple guidelines and appeal guidance last verified: 2026-10-06. Other sources last researched: 2026-09-02; not revalidated in that Apple-only update. Policies change; re-open official sources before submission or appeal.
 
 ## Apple official
 
 - [App Review Guidelines](https://developer.apple.com/app-store/review/guidelines/) — 4.2, 4.2.6, 4.3(a), 4.3(b).
 - [App Review overview](https://developer.apple.com/app-store/review/)
+- [Appeal to the App Review Board](https://developer.apple.com/help/app-review/after-submitting-for-review/appeal-to-the-app-review-board) — clarification before appeal; information requests are not appeal grounds.
 - [Unresolved submission workflow](https://developer.apple.com/help/app-store-connect/manage-submissions-to-app-review/manage-a-submission-with-unresolved-issues)
 - [Apple staff response about 4.3(a) appeals](https://developer.apple.com/forums/thread/825522) — enforcement context; the guideline remains authoritative.
 
